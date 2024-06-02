@@ -1,3 +1,9 @@
 This is File_02.txt.
 This is File_02.txt modify 1st.
+<<<<<<< HEAD
 This is File_02.txt branch B1.
+This is File_02.txt branch C4.
+=======
+This is File_02.txt branch B1.
+This is File_02.txt branch C4.
+>>>>>>> C4
