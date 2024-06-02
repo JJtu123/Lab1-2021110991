@@ -1,0 +1,10 @@
+The quick brown fox jumps over the lazy dog.
+This is a test file for the directed graph application.
+It includes various special characters like !@#$%^&*()_+
+and also words such as Software and Engineering.
+The quick brown fox jumps over the lazy dog.
+This file contains repeated words like fox and dog.
+Additionally, it has words with mixed case like Quick and Fox.
+This is a long sentence to test the line-by-line processing
+of the file.
+The end.
