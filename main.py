@@ -1,7 +1,7 @@
 """
-version: 1.2
 Author: Fang Shihao, An Xin
-version: 1.1
+version: 1.7
+Date: 2024-6-2
 """
 import tkinter as tk  # 导入 tkinter 模块，用于创建图形用户界面
 from tkinter import filedialog, messagebox  # 从 tkinter 模块导入文件对话框和消息框
